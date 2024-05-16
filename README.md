@@ -1,3 +1,5 @@
+**Last updated:** May 15, 2024
+
 **DESCRIPTION**
 
 This repository contains the main raw trace files (.ab1) from Sanger sequencing in the study "Precision mitochondrial genome editing with αDdCBEs." A preprint for this study is available at https://www.biorxiv.org/content/10.1101/2024.05.13.593977v1 (DOI: 10.1101/2024.05.13.593977).

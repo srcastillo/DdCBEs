@@ -1,6 +1,6 @@
 **DESCRIPTION**
 
-This repository contains the main raw trace files (.ab1) generated in the study "Precision mitochondrial genome editing with αDdCBEs." 
+This repository contains the main raw trace files (.ab1) generated via Sanger sequencing in the study "Precision mitochondrial genome editing with αDdCBEs." 
 
 A preprint for this study is availably at https://www.biorxiv.org/content/10.1101/2024.05.13.593977v1 (DOI: 10.1101/2024.05.13.593977).
 

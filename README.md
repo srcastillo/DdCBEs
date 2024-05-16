@@ -6,9 +6,17 @@ A preprint for this study is availably at https://www.biorxiv.org/content/10.110
 
 **KEY**
 
-UC: Untreated control
+UC-1: Untreated control replicate 1
 
-SC: TALE-free sDddAtox control
+UC-2: Untreated control replicate 2
+
+UC-3: Untreated control replicate 3
+
+SC-1: TALE-free sDddAtox control replicate 1
+
+SC-2: TALE-free sDddAtox control replicate 2
+
+SC-3: TALE-free sDddAtox control replicate 3
 
 1-1-F: A1-A2 replicate 1
 

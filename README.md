@@ -2,7 +2,7 @@
 
 **DESCRIPTION**
 
-This repository contains the main raw trace files (.ab1) generated via Sanger sequencing in the study "Precision mitochondrial genome editing with αDdCBEs." This study was published as open-access in Human Gene Therapy (https://www.liebertpub.com/doi/10.1089/hum.2024.073).
+This repository contains the main raw trace files (.ab1) generated via Sanger sequencing in the study "Precision mitochondrial genome editing with αDdCBEs." This study can be found in Human Gene Therapy as an open-access publication (https://www.liebertpub.com/doi/10.1089/hum.2024.073).
 
 **KEY**
 
